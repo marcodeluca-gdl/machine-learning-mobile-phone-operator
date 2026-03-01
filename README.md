@@ -145,7 +145,7 @@ Sufficiency simultaneously.
 ------------------------------------------------------------------------
 
 ## Project Structure
-
+'''
 ├── celldata.csv 
 │ 
 ├── mlProject_mobile_phone_operator.ipynb 
@@ -153,7 +153,7 @@ Sufficiency simultaneously.
 ├── requirements.txt  
 │
 └── README.md
-
+'''
 ------------------------------------------------------------------------
 
 ## Technologies
